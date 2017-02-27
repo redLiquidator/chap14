@@ -1,5 +1,5 @@
 package com.example.domain;
-
+//Test
 public class Dept {
 	Integer deptno;
 	String dname;
